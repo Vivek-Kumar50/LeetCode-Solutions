@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
