@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
