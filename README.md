@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0877-stone-game) |
