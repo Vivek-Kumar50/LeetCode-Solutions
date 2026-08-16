@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Newton's Method
