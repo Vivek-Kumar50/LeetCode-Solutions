@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
