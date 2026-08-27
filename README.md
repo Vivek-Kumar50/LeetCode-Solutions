@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
