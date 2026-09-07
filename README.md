@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
