@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
 |  |
 | ------- |
