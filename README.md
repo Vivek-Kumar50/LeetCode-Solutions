@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
