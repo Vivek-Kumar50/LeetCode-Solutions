@@ -15,8 +15,8 @@ class Solution {
                 left++;
             }
             int currentWindowSize=right-left+1;
-if(currentWindowSize>max){
-    max=currentWindowSize;
+               if(currentWindowSize>max){
+                  max=currentWindowSize;
 }
 right++;
         }
