@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
