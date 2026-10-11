@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
 |  |
