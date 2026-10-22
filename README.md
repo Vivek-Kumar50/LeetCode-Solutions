@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
