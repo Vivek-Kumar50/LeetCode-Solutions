@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
