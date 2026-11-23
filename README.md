@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
 | ------- |
