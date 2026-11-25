@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
