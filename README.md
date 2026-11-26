@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek-Kumar50/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
